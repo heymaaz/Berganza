@@ -1,0 +1,54 @@
+
+header{
+    font-family: Verdana, Geneva, Tahoma, Arial;
+    background-color: #333;
+    color: #bf9448;
+    text-align: center;
+}
+header #logo{
+    width: 20%;
+}
+header a{
+    text-decoration: none;
+    font-size: large;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, Arial;
+    background-color: #333;
+    color: #bf9448;
+    text-align: center;
+}
+footer{
+    background-color: #fff;
+    bottom: 0;
+    width: 100%;
+    border: #333;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+footer a{
+    color: #bf9448;
+}
+footer p{
+    color: #bf9448;
+}
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#left{
+    width: 50%; 
+    padding: auto;
+    text-align: left;
+}
+#right{
+    width: 50%; 
+    text-align: left;
+}
+img{
+    width: 40%;
+    padding: 10px;
+}
